@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rehan Raza</h1>
 <h3 align="center">Passionate about bridging the gap between offensive and defensive security through Purple Teaming.</h3>
 
-<img src="./480531">
+<img src="480531.png" alt="FrontImage">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehan-mirjat&label=Profile%20views&color=0e75b6&style=flat" alt="rehan-mirjat" /> </p>
 
