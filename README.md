@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Rehan Raza</h1>
 <h3 align="center">Passionate about bridging the gap between offensive and defensive security through Purple Teaming.</h3>
 
+<img src="./480531">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rehan-mirjat&label=Profile%20views&color=0e75b6&style=flat" alt="rehan-mirjat" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=rehan-mirjat" alt="rehan-mirjat" /></a> </p>
