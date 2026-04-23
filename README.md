@@ -1,39 +1,169 @@
-<h1 align="center">Hi 👋, I'm Rehan Raza</h1>
-<h3 align="center">Passionate about bridging the gap between offensive and defensive security through Purple Teaming.</h3>
+<!-- CYBERPUNK HEADER -->
 
-<img src="480531.png" alt="FrontImage">
-
-
-
-- 🔭 I’m currently working on **Network Mapping inhencer**
-
-- 🌱 I’m currently learning **Offensive and Defensive**
-
-- 👯 I’m looking to collaborate on **Automation Tools For Penetration Testing and SIEM Tools**
-
-- 🤝 I’m looking for help with **Open_Source Projects**
-
-- 👨‍💻 All of my projects are available at [https://github.com/Rehan-Mirjat](https://github.com/Rehan-Mirjat)
-
-- 💬 Ask me about **System Protection And System Attacks**
-
-- 📫 How to reach me **rehan.mirjat@outlook.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/rehan-mirjat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="rehan-mirjat" height="30" width="40" /></a>
-<a href="https://fb.com/rehan raza" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="rehan raza" height="30" width="40" /></a>
-<a href="https://instagram.com/rehan.mirjat" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rehan.mirjat" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/cyberlens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="cyberlens" height="30" width="40" /></a>
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=800&lines=root@rehan:~%23+Initializing...;Loading+Cyber+Modules...;Access+Granted+✔;Welcome+Rehan+Raza" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<h1 align="center">🟢 SYSTEM ONLINE</h1>
+<h3 align="center">root@rehan:~# Purple Team Operator</h3>
 
+<p align="center">
+<img src="480531.png" width="100%" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=rehan-mirjat&show_icons=true&locale=en&layout=compact" alt="rehan-mirjat" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=rehan-mirjat&show_icons=true&locale=en" alt="rehan-mirjat" /></p>
+## 🖥️ `boot.log`
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=rehan-mirjat&" alt="rehan-mirjat" /></p>
+```bash
+> Booting Secure Environment...
+> Loading Offensive Engine ███████████ 100%
+> Loading Defensive Engine ███████████ 100%
+> Bypassing Firewalls ✔
+> Establishing Secure Shell ✔
+> SYSTEM READY
+```
 
+---
+
+## 👤 `whoami`
+
+```bash
+root@rehan:~# whoami
+
+Name      : Rehan Raza
+Alias     : Purple Operator
+Role      : Offensive + Defensive Security
+Mission   : Break → Analyze → Defend
+Status    : ACTIVE
+```
+
+---
+
+## ⚙️ `active_missions`
+
+```bash
+[🔭] Network Mapping Enhancer (Development)
+[🌱] Offensive Security | Defensive Security
+[👯] Automation Tools (Pentesting + SIEM)
+[🤝] Open Source Collaboration
+```
+
+---
+
+## 🧠 `neural_skills`
+
+```bash
+Python          ██████████░ 85%
+Networking      █████████░░ 80%
+Web Security    ████████░░░ 75%
+Linux           ██████████░ 90%
+Database        ███████░░░░ 70%
+```
+
+---
+
+## 🧰 `arsenal`
+
+```bash
+> Loading tools...
+
+[✔] Nmap          → Reconnaissance
+[✔] Metasploit    → Exploitation Framework
+[✔] Burp Suite    → Web App Testing
+[✔] Wireshark     → Packet Analysis
+[✔] SIEM          → Threat Monitoring
+```
+
+---
+
+## 📡 `live_terminal`
+
+```bash
+root@rehan:~# monitor --realtime
+
+[+] Firewall        : ACTIVE
+[+] Threat Level    : LOW
+[+] Sessions        : 07
+[!] Intrusions      : BLOCKED
+[+] System Health   : OPTIMAL
+```
+
+---
+
+## 🌐 `connectivity`
+
+```bash
+root@rehan:~# connect --all
+
+GitHub    : https://github.com/Rehan-Mirjat
+LinkedIn  : linkedin.com/in/rehan-mirjat
+Email     : rehan.mirjat@outlook.com
+Instagram : @rehan.mirjat
+YouTube   : CyberLens
+```
+
+---
+
+## ⚡ `system_analytics`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=rehan-mirjat&show_icons=true&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehan-mirjat&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=rehan-mirjat&theme=tokyonight&hide_border=true"/>
+</p>
+
+---
+
+## 🧬 `cyber_activity_graph`
+
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=rehan-mirjat&theme=react-dark&bg_color=0d1117&hide_border=true&line=00ff00&point=00ff00"/>
+</p>
+
+---
+
+## 🌍 `network_links`
+
+<p align="center">
+<a href="https://linkedin.com/in/rehan-mirjat"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+<a href="https://instagram.com/rehan.mirjat"><img src="https://skillicons.dev/icons?i=instagram" /></a>
+<a href="https://www.youtube.com/c/cyberlens"><img src="https://skillicons.dev/icons?i=youtube" /></a>
+</p>
+
+---
+
+## ⚠️ `security_policy`
+
+```bash
+root@rehan:~# cat policy.txt
+
+All operations are conducted in controlled environments.
+This profile represents ethical hacking practices only.
+Unauthorized access is strictly prohibited.
+```
+
+---
+
+## 🧾 `final_log`
+
+```bash
+root@rehan:~# exit
+
+> Logging out...
+> Disconnecting secure session...
+> SYSTEM OFFLINE
+
+> Stay Anonymous | Stay Secure
+```
+
+---
+
+<!-- MATRIX RAIN FOOTER -->
+
+<p align="center">
+<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="100%"/>
+</p>
