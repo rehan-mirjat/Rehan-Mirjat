@@ -3,8 +3,6 @@
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?color=00FF00&center=true&vCenter=true&width=800&lines=root@rehan:~%23+Initializing...;Loading+Cyber+Modules...;Access+Granted+✔;Welcome+Rehan+Raza" />
 </p>
-
-<h1 align="center">🟢 SYSTEM ONLINE</h1>
 <h3 align="center">root@rehan:~# Purple Team Operator</h3>
 
 <p align="center">
