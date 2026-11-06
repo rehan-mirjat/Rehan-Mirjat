@@ -2,8 +2,6 @@
 
 ### Final-year BS IT student | Cybersecurity learner
 
-<p align="center"><img src="480531.png" alt="Cybersecurity themed banner" width="100%" /></p>
-
 ## About
 
 I’m completing my BS in Information Technology at the University of Sindh and building practical cybersecurity skills through coursework and authorized labs. I’m especially interested in web application security, network analysis, and vulnerability assessment.
